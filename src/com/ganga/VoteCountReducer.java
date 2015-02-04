@@ -2,6 +2,8 @@ package com.ganga;
 
 import java.io.IOException;
 
+//Hello 
+
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
